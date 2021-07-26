@@ -31,5 +31,7 @@
     "start": "nodemon ./index.js --exec babel-node -e js"
   }
 
-
+- create the start file (index.js)
+    - add a get function with the request
+- create a .babelrc file and set the preset
 

@@ -1,0 +1,22 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "crm Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jess247/node.js_API.git"
+  },
+  "author": "Jessica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jess247/node.js_API/issues"
+  },
+  "homepage": "https://github.com/Jess247/node.js_API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

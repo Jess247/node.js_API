@@ -9,3 +9,13 @@
  * Express
  * Mongo DB
  * Babel
+
+ ## first steps
+ - Download Postman and create an account.
+ - install node.js
+ - create a folder 
+    - initialize npm in that folder (npm init)
+    - install express (npm install express --save)
+
+
+

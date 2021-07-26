@@ -35,3 +35,11 @@
     - add a get function with the request
 - create a .babelrc file and set the preset
 
+- setup folders for routs, controller and models
+    - add js file in each
+
+## Mongo DB
+
+- Download Robo 3t Only (and studio 3t only - optional)
+    - in Robo create a new connection
+

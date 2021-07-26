@@ -2,7 +2,7 @@ const routes = (app) => {
     app.route('/contact')
         
         .get((req,res, next) => {
-            // middleware
+            // middleware can be any thing else as well
             console.log(`Request from: ${req.originalUrl}`)
             console.log(`Request type: ${req.method}`)
             next();

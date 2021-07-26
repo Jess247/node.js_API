@@ -23,6 +23,13 @@
     - npm install mongodb mongoose
 - install bable 
     - npm install --save-dev babel-cli babel-preset-env babel-preset-stage-0
+- install more packages 
+    - npm install body-parser and nodemon
+- change initial script
+    - it will allow to run our server 
+    - to make sure babel can transpile the code it should look like this: "scripts": {
+    "start": "nodemon ./index.js --exec babel-node -e js"
+  }
 
 
 
